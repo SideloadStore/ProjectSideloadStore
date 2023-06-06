@@ -1,0 +1,23 @@
+{
+  "name": "ss_signingapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "html": "^1.0.0",
+    "plist": "^3.0.6",
+    "user-agent": "^1.0.4",
+    "user-agents": "^1.0.1391",
+    "uuid": "^9.0.0"
+  }
+}
